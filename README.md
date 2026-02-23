@@ -1,10 +1,5 @@
 # D-RYHMÄTYÖ
-|  |  | Artem Yakunin |
-|  |  |               |
-|  |  | Teen Events kohdan |
-|  |  | Eemil Kolehmainen  | 
-|  |  |               |
-|  |  | Teen About kohdan |
-|  |  | Nikolai Speranski |
-|  |  |               |
-|  |  | Teen traditions ja subscribe kohdat |
+
+| Artem Yakunin | Eemil Kolehmainen | Nikolai Speranski |
+| ---- | ---- | ---- |
+| Teen Events kohdan | Teen about kohdan |  |
