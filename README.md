@@ -5,3 +5,6 @@
 |  |  | Eemil Kolehmainen  | 
 |  |  |               |
 |  |  | Teen About kohdan |
+|  |  | Nikolai Speranski |
+|  |  |               |
+|  |  | Teen traditions ja subscribe kohdat |
