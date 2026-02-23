@@ -2,4 +2,4 @@
 
 | Artem Yakunin | Eemil Kolehmainen | Nikolai Speranski |
 | ---- | ---- | ---- |
-| Teen Events kohdan | Teen about kohdan |  |
+| Teen Events kohdan | Teen about kohdan |  Teen traditions ja subscribe kohdat |
