@@ -1,4 +1,4 @@
 # D-RYHMÄTYÖ
 |  |  | Artem Yakunin |
-| Teen About kohdan | Eemil | Kolehmainen |
+| Eemil Kolehmainen | Teen about kohdan |  |
 |  |  | Teen Events kohdan |
