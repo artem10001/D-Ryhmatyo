@@ -1,4 +1,4 @@
 # D-RYHMÄTYÖ
-| JS | HTML | CSS |
+|  |  | Artem Yakunin |
 | ---- | ---- | ---- |
-| Nikolai Speranski | Eemil Kolehmainen | Artem Yakunin |
+|  |  | Teen Events kohdan |
