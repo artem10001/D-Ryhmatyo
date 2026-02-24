@@ -865,10 +865,10 @@ section {
 
 .tradition-card {
 	display: grid;
-	grid-template-columns: 140px 1fr;
-	gap: 24px;
+	grid-template-columns: 150px 1fr;
+	gap: 20px;
 	padding: 24px;
-	background: var(--bg-glass);
+	background: var(--border-glow);
 	border: 1px solid var(--border-glass);
 	border-radius: 24px;
 	align-items: center;
@@ -876,9 +876,9 @@ section {
 }
 
 .tradition-card:hover {
-	border-color: var(--border-glow);
+	border-color: var(--accent-gold);
 	transform: translateX(8px);
-	background: rgba(255, 255, 255, 0.08);
+	background: rgba(34, 110, 145, 0.664);
 }
 
 .tradition-image {
@@ -963,10 +963,10 @@ section {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 60px;
-	background: var(--bg-glass);
+	background: var(--border-glow);
 	backdrop-filter: blur(40px);
 	-webkit-backdrop-filter: blur(40px);
-	border: 1px solid var(--border-glass);
+	border: 2px solid var(--accent-gold);
 	border-radius: 32px;
 	text-align: center;
 	position: relative;
@@ -984,7 +984,7 @@ section {
 }
 
 .newsletter-container p {
-	color: var(--text-secondary);
+	color: var(--white);
 	margin-bottom: 40px;
 	font-size: 1.1rem;
 	max-width: 500px;
@@ -1013,17 +1013,17 @@ section {
 }
 
 .newsletter-form input::placeholder {
-	color: var(--text-dim);
+	color: var(--white);
 }
 
 .newsletter-form input:focus {
 	border-color: var(--accent-gold);
-	background: rgba(255, 255, 255, 0.08);
+	background: rgba(45, 104, 128, 0.568);
 }
 
 .newsletter-form button {
 	padding: 18px 36px;
-	background: linear-gradient(135deg, var(--accent-red), #ff6b6b);
+	background: linear-gradient(135deg, var(--accent-blue), #ff6b6b);
 	border: none;
 	border-radius: 16px;
 	color: var(--text-primary);
